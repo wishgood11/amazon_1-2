@@ -10,11 +10,11 @@ plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False
 
 # outputs 하위 폴더 경로 설정
-output_dir = './outputs/title_features_analysis'
+output_dir = '../outputs/title_features_analysis'
 os.makedirs(output_dir, exist_ok=True)
 
 # 데이터 로드 (final_books_dataset 사용)
-df = pd.read_csv('./data/final_books_dataset.csv')
+df = pd.read_csv('../data/final_books_dataset.csv')
 
 
 # ==========================================
