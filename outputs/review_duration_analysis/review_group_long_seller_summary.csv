@@ -1,0 +1,4 @@
+﻿review_group,book_count,avg_reviews,avg_appear_count,avg_duration,long_seller_rate,long_seller_rate_percent
+low,146,2681.445,1.212,1.212,0.041,4.1
+middle,146,8397.422,1.486,1.514,0.096,9.6
+high,147,36326.71,2.061,2.259,0.224,22.4
