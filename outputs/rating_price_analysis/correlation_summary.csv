@@ -1,0 +1,7 @@
+﻿분석,표본수,피어슨_상관계수
+평점(avg_rating) vs 등장횟수(appear_count),439,0.0719
+평점(avg_rating) vs 지속기간(duration),439,0.0702
+가격(price) vs 리뷰수(amazon_reviews),685,-0.1244
+가격(price) vs 리뷰수 로그(review_log),685,-0.1761
+평균가격(avg_price) vs 등장횟수(appear_count),431,-0.0332
+평균가격(avg_price) vs 지속기간(duration),431,-0.0448
